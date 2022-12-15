@@ -1,0 +1,15 @@
+C:\Users\AS KHAN\source\repos\Matrixes\Matrixes\bin\Debug\net6.0\Matrixes.exe
+C:\Users\AS KHAN\source\repos\Matrixes\Matrixes\bin\Debug\net6.0\Matrixes.deps.json
+C:\Users\AS KHAN\source\repos\Matrixes\Matrixes\bin\Debug\net6.0\Matrixes.runtimeconfig.json
+C:\Users\AS KHAN\source\repos\Matrixes\Matrixes\bin\Debug\net6.0\Matrixes.dll
+C:\Users\AS KHAN\source\repos\Matrixes\Matrixes\bin\Debug\net6.0\Matrixes.pdb
+C:\Users\AS KHAN\source\repos\Matrixes\Matrixes\obj\Debug\net6.0\Matrixes.csproj.AssemblyReference.cache
+C:\Users\AS KHAN\source\repos\Matrixes\Matrixes\obj\Debug\net6.0\Matrixes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AS KHAN\source\repos\Matrixes\Matrixes\obj\Debug\net6.0\Matrixes.AssemblyInfoInputs.cache
+C:\Users\AS KHAN\source\repos\Matrixes\Matrixes\obj\Debug\net6.0\Matrixes.AssemblyInfo.cs
+C:\Users\AS KHAN\source\repos\Matrixes\Matrixes\obj\Debug\net6.0\Matrixes.csproj.CoreCompileInputs.cache
+C:\Users\AS KHAN\source\repos\Matrixes\Matrixes\obj\Debug\net6.0\Matrixes.dll
+C:\Users\AS KHAN\source\repos\Matrixes\Matrixes\obj\Debug\net6.0\refint\Matrixes.dll
+C:\Users\AS KHAN\source\repos\Matrixes\Matrixes\obj\Debug\net6.0\Matrixes.pdb
+C:\Users\AS KHAN\source\repos\Matrixes\Matrixes\obj\Debug\net6.0\Matrixes.genruntimeconfig.cache
+C:\Users\AS KHAN\source\repos\Matrixes\Matrixes\obj\Debug\net6.0\ref\Matrixes.dll
